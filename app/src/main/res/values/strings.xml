@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FinalQuiz</string>
+    <string name="quiz">Road Safety Quiz</string>
+    <string name="start">Start Quiz</string>
+    <string name="high_score_0">High Score: 0</string>
+    <string name="score_0">Score:0</string>
+    <string name="question_1_x">Question: 1/x</string>
+    <string name="_00_30">00:30</string>
+    <string name="option_1">Option 1</string>
+    <string name="option2">option2</string>
+    <string name="option_3">option 3</string>
+    <string name="option_4">option 4</string>
+    <string name="here_will_be_question_text_nhere_will_be_question_text_nhere_will_be_question_text">Here will be question text\nHere will be question text\nHere will be question text</string>
+    <string name="confirm">Confirm</string>
+</resources>
